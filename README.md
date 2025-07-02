@@ -5,4 +5,5 @@ Code for Random bucky
 This code has no stop switch! it kinda sucks!
 There are versions for Arduino leonardo and UnoR4
 Remember that once the Arduino is plugged in and flashed with the code the only way to stop it is to unplug the Arduino!!!
+The program is based if of Linksing a program built for Link to play the ocarina forever, it's also included!
 Plz credit if used!
